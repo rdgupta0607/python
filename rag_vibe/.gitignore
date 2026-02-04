@@ -23,7 +23,7 @@ chroma_db/
 # ----------------------------
 # ML Models (large / downloaded)
 # ----------------------------
-#all-MiniLM-L12-v2/
+all-MiniLM-L12-v2/
 sentence-transformers/
 
 # ----------------------------
